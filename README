@@ -1,0 +1,27 @@
+# Análise Exploratória de Dados Automática com Python
+
+## Descrição
+
+Este projeto fornece uma ferramenta automatizada para realizar análise exploratória de dados (EDA) em conjuntos de dados fornecidos via URLs. Utilizando bibliotecas populares como Pandas, Matplotlib e Seaborn, o script realiza uma série de análises e visualizações para ajudar na compreensão inicial dos dados.
+
+## Funcionalidades
+
+- **Carregamento de Dados:** Suporta URLs diretas e links do Google Drive.
+- **Visualizações Automáticas:**
+  - Histogramas
+  - Gráficos de Barras
+  - Gráficos de Pizza
+  - Gráficos de Linha
+  - Gráficos de Dispersão
+  - Boxplots
+  - Matriz de Correlação
+- **Análise Especializada:** Espaço reservado para análises personalizadas e insights adicionais.
+
+## Pré-requisitos
+
+Certifique-se de ter o Python instalado (versão 3.6 ou superior). As bibliotecas necessárias podem ser instaladas via `pip`.
+
+### Instalação das Dependências
+
+```bash
+pip install pandas matplotlib seaborn requests
